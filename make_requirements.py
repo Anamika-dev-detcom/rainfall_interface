@@ -9,4 +9,5 @@ with open("requirements.txt", "w") as f:
     for pkg in packages:
         f.write(pkg + "\n")
 
-print("requirements.txt created.")
+print("requirements.txt created."
+
